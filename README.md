@@ -28,4 +28,4 @@ Prior knowledge:
 Basic working knowledge of multivariate statistics and linear algebra is required to follow the course. Next to that, it is expected that you have had the course CSE2510 Machine Learning, or something comparable.
 
 
-You get PRTools for Python from https://github.com/DMJTax/prtools
+You can get PRTools for Python from https://github.com/DMJTax/prtools
